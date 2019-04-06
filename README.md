@@ -1,2 +1,2 @@
 # JavaScriptAdvanced
-Homework for ITVDN JavaScript Advanced couse
+Homework for ITVDN JavaScript Advanced course.
